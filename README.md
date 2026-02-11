@@ -18,7 +18,7 @@ This project implements a hybrid log classification system, combining three comp
 3. **LLM (Large Language Models)**:
    - Used for handling complex patterns when sufficient labeled training data is not available.
    - Provides a fallback or complementary approach to the other methods.
-
+<!--
 ![architecture](resources/arch.png)
 
 ---
@@ -80,3 +80,4 @@ The output will be a CSV file with an additional column `target_label`, which re
 @LearnerX Pvt Ltd  
 
 This project, including its code and resources, is intended solely for educational purposes and should not be used for any commercial purposes without proper authorization.
+-->
